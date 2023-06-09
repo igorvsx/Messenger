@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkSzvkRCDH395ZGfCVr1aibbrdarPOrkvOcqWAnatK4J9CqVdIPnhpFaIuW8EzkDixVfuLnH8SabZ2FMxQkU8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\WhatsApp\\WhatsApp\\WhatsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
